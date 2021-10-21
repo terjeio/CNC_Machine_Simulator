@@ -4,7 +4,7 @@
 
 First batch of boards \(for final design verification\) to be ordered soon.
 
-**NOTE:** design files are in [KiCad 5](http://www.kicad-pcb.org/) format!
+**NOTE:** design files are in [KiCad 5](http://www.kicad.org/) format!
 
 **Features:**
 
@@ -34,4 +34,4 @@ First batch of boards \(for final design verification\) to be ordered soon.
 
 ---
 
-2021-08-30
+2021-10-21
